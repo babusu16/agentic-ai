@@ -1,0 +1,81 @@
+source_id,source_type,category,priority,technical_details,suggested_title
+1,review,Complaint,Medium,,Too many ads displayed
+2,review,Feature Request,Critical,,Add dark mode support
+3,review,Feature Request,Low,,Biometric login support requested
+4,review,Praise,High,,Loving the new update!
+5,review,Complaint,High,,Too many ads displayed
+6,review,Complaint,Low,,Too many ads displayed
+7,review,Bug,High,"Data not syncing properly on iPhone 12, OS: iPadOS 14.",Login not working on iOS 15
+8,review,Feature Request,Low,,Request to integrate with calendar
+9,review,Bug,High,Issue on OnePlus 9 running Android 12. Reproduced by tapping login repeatedly.,Crash when uploading photo
+10,review,Bug,Critical,"Device: OnePlus 9, OS: iPadOS 14. Steps: 1. Open app, 2. Click settings, 3. Crash occurs.",App crashes on login screen
+11,review,Feature Request,Low,,Biometric login support requested
+12,review,Complaint,High,,Too many ads displayed
+13,review,Spam,Critical,,Contains external links
+14,review,Praise,Critical,,Loving the new update!
+15,review,Praise,Low,,App works flawlessly
+16,review,Feature Request,Medium,,Request to integrate with calendar
+17,review,Feature Request,High,,Add dark mode support
+18,review,Bug,Medium,Crash when uploading photo. Tested on OnePlus 9 with Android 12.,App crashes on login screen
+19,review,Complaint,High,,Poor customer service response
+20,review,Praise,High,,App works flawlessly
+21,review,Complaint,Medium,,App too slow and unresponsive
+22,review,Complaint,Low,,Poor customer service response
+23,review,Spam,Medium,,Contains external links
+24,review,Bug,High,Issue on OnePlus 9 running Android 12. Reproduced by tapping login repeatedly.,Login not working on iOS 15
+25,review,Spam,High,,Spam content – promotional
+26,review,Bug,High,"Device: OnePlus 9, OS: iPadOS 14. Steps: 1. Open app, 2. Click settings, 3. Crash occurs.",Data sync fails on Android 12
+27,review,Feature Request,Critical,,Request to integrate with calendar
+28,review,Bug,High,"Device: iPhone 12, OS: iOS 16. Steps: 1. Open app, 2. Click settings, 3. Crash occurs.",Data sync fails on Android 12
+29,review,Bug,High,"Data not syncing properly on iPhone 12, OS: iOS 15.",Crash when uploading photo
+30,review,Praise,Low,,App works flawlessly
+31,review,Feature Request,Critical,,Export to PDF feature
+32,review,Complaint,Medium,,App too slow and unresponsive
+33,review,Complaint,Medium,,Too many ads displayed
+34,review,Feature Request,Low,,Add dark mode support
+35,review,Complaint,Low,,App too slow and unresponsive
+36,review,Spam,Critical,,Spam content – promotional
+37,review,Spam,High,,Spam content – promotional
+38,review,Praise,Medium,,Loving the new update!
+39,review,Praise,Medium,,App works flawlessly
+40,review,Feature Request,Medium,,Export to PDF feature
+41,review,Feature Request,Low,,Export to PDF feature
+42,review,Feature Request,Low,,Add dark mode support
+43,review,Complaint,Low,,App too slow and unresponsive
+44,review,Bug,Low,Crash when uploading photo. Tested on iPad Pro with Android 13.,Login not working on iOS 15
+45,review,Complaint,Medium,,Too many ads displayed
+46,review,Praise,Medium,,App works flawlessly
+47,review,Complaint,High,,App too slow and unresponsive
+48,review,Praise,High,,Loving the new update!
+49,review,Bug,High,"Data not syncing properly on OnePlus 9, OS: Android 12.",Crash when uploading photo
+50,review,Feature Request,High,,Export to PDF feature
+1,email,Feature Request,Medium,,Biometric login support requested
+2,email,Complaint,Low,,Too many ads displayed
+3,email,Feature Request,Low,,Request to integrate with calendar
+4,email,Feature Request,Critical,,Add dark mode support
+5,email,Feature Request,High,,Add dark mode support
+6,email,Complaint,High,,App too slow and unresponsive
+7,email,Complaint,Critical,,Poor customer service response
+8,email,Feature Request,Medium,,Biometric login support requested
+9,email,Complaint,Low,,Too many ads displayed
+10,email,Feature Request,Low,,Biometric login support requested
+11,email,Feature Request,Critical,,Request to integrate with calendar
+12,email,Bug,Medium,Issue on OnePlus 9 running iOS 15. Reproduced by tapping login repeatedly.,Data sync fails on Android 12
+13,email,Bug,High,Crash when uploading photo. Tested on Pixel 6 with iOS 16.,Login not working on iOS 15
+14,email,Spam,Medium,,Unrelated content submitted
+15,email,Complaint,Low,,App too slow and unresponsive
+16,email,Bug,Low,Issue on iPhone 12 running iOS 16. Reproduced by tapping login repeatedly.,App crashes on login screen
+17,email,Feature Request,High,,Biometric login support requested
+18,email,Bug,Medium,"Device: Pixel 6, OS: iOS 16. Steps: 1. Open app, 2. Click settings, 3. Crash occurs.",App crashes on login screen
+19,email,Feature Request,Critical,,Add dark mode support
+20,email,Bug,Medium,"Device: Pixel 6, OS: iOS 15. Steps: 1. Open app, 2. Click settings, 3. Crash occurs.",Data sync fails on Android 12
+21,email,Complaint,Medium,,App too slow and unresponsive
+22,email,Spam,Medium,,Spam content – promotional
+23,email,Feature Request,Critical,,Export to PDF feature
+24,email,Feature Request,Low,,Add dark mode support
+25,email,Spam,High,,Unrelated content submitted
+26,email,Feature Request,Low,,Export to PDF feature
+27,email,Bug,High,Issue on Samsung Galaxy S21 running Android 12. Reproduced by tapping login repeatedly.,Data sync fails on Android 12
+28,email,Bug,High,"Device: iPhone 12, OS: iPadOS 14. Steps: 1. Open app, 2. Click settings, 3. Crash occurs.",Login not working on iOS 15
+29,email,Bug,High,Crash when uploading photo. Tested on Pixel 6 with Android 13.,Crash when uploading photo
+30,email,Complaint,Medium,,Poor customer service response

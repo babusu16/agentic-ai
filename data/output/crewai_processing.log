@@ -1,0 +1,218 @@
+2025-10-07 18:20:48,193 - __main__ - INFO - Starting CrewAI Feedback Analysis Crew...
+2025-10-07 18:20:48,223 - __main__ - INFO - Executing crew tasks...
+2025-10-07 18:20:48,258 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:20:49,438 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:20:49,476 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:20:49,476 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:20:49,477 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:20:49,479 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:20:49,530 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:07,009 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:07,014 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:07,015 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:07,015 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:07,024 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:07,037 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:07,826 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:07,829 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:07,830 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:07,831 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:07,835 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:07,853 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:33,632 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:33,642 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:33,642 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:33,643 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:33,655 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:33,665 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:35,294 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:35,301 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:35,302 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:35,302 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:35,309 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:35,317 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:36,154 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:36,157 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:36,158 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:36,158 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:36,170 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:36,188 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:37,734 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:37,736 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:37,737 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:37,742 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:37,751 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:38,824 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:38,834 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:38,834 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:38,837 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:38,844 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:40,305 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:40,331 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:40,332 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:40,332 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:40,338 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:40,346 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:44,689 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:44,692 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:44,693 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:44,693 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:44,696 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:44,697 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:49,195 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:49,203 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:49,204 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:49,205 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:49,217 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:49,230 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:50,645 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:50,688 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:50,689 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:50,690 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:50,694 - __main__ - ERROR - Technical analysis error: Expecting value: line 1 column 1 (char 0)
+2025-10-07 18:21:50,696 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:50,704 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:51,857 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:51,860 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:51,861 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:51,861 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:51,865 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:51,870 - __main__ - ERROR - Technical analysis error: Expecting value: line 1 column 1 (char 0)
+2025-10-07 18:21:51,876 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:52,881 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:52,884 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:52,885 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:52,885 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:52,898 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:52,907 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:54,315 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:54,320 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:54,321 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:54,321 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:54,324 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:54,332 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:55,436 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:55,453 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:55,454 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:55,454 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:55,461 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:55,466 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:56,215 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:56,229 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:56,229 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:56,230 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:56,244 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:56,251 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:58,001 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:58,005 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:58,006 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:58,006 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:58,010 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:58,053 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:21:58,167 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-10-07 18:21:58,169 - openai._base_client - INFO - Retrying request to /chat/completions in 0.395932 seconds
+2025-10-07 18:21:59,815 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:21:59,819 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:21:59,820 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:59,820 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:59,825 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:21:59,858 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:01,381 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:01,385 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:01,385 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:01,386 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:01,391 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:01,426 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:03,019 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:03,022 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:03,023 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:03,023 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:03,027 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:03,028 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:08,138 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:08,142 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:08,142 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:08,143 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:08,158 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:08,165 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:09,667 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:09,677 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:09,677 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:09,678 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:09,693 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:09,713 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:10,943 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:10,955 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:10,956 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:10,957 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:10,972 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:10,993 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:12,234 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:12,239 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:12,240 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:12,240 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:12,243 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:12,245 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:13,162 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:13,165 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:13,166 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:13,166 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:13,177 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:13,188 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:15,717 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:15,720 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:15,721 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:15,721 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:15,725 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:15,727 - __main__ - ERROR - CSV writing error: Expecting value: line 1 column 1 (char 0)
+2025-10-07 18:22:15,735 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:17,763 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:17,767 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:17,767 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:17,768 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:17,772 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:17,775 - __main__ - ERROR - CSV writing error: Expecting value: line 1 column 1 (char 0)
+2025-10-07 18:22:17,782 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:18,584 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:18,587 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:18,588 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:18,588 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:18,591 - LiteLLM - INFO - 
+LiteLLM completion() model= gpt-3.5-turbo; provider = openai
+2025-10-07 18:22:18,593 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:19,326 - httpx - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2025-10-07 18:22:19,336 - LiteLLM - INFO - Wrapper: Completed Call, calling success_handler
+2025-10-07 18:22:19,336 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:19,337 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:19,350 - LiteLLM - INFO - selected model name for cost calculation: openai/gpt-3.5-turbo-0125
+2025-10-07 18:22:19,356 - __main__ - INFO - CrewAI processing complete!
+2025-10-07 18:22:19,359 - __main__ - INFO - Summary saved to data/output/processing_summary.json

@@ -1,0 +1,6 @@
+metric,value
+total_processed,60
+bugs_found,12
+features_requested,10
+critical_issues,4
+processing_time,0.033655

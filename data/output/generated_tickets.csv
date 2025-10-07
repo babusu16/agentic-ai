@@ -1,0 +1,112 @@
+ticket_id,title,description,category,priority,source_id,source_type,technical_details,created_at,status,assigned_to
+T1001,[Bug] Calendar sync with Google Calendar is broken,Calendar sync with Google Calendar is broken,Bug,High,R1010,app_review,Version: 2.1.3; Platform: App Store,2025-09-19T18:06:35.486199,New,Unassigned
+T1002,[Feature Request] Please add voice notes feature,Please add voice notes feature,Feature Request,Medium,R1018,app_review,N/A,2025-09-19T18:06:35.486218,New,Unassigned
+T1003,[General] asdfghjkl random text 12345,asdfghjkl random text 12345,General,Low,R1042,app_review,N/A,2025-09-19T18:06:35.486221,New,Unassigned
+T1004,"[Feature Request] Need better export options (PDF, Word)","Need better export options (PDF, Word)",Feature Request,Medium,R1016,app_review,N/A,2025-09-19T18:06:35.486223,New,Unassigned
+T1005,[General] Offline mode doesn't save changes properly,Offline mode doesn't save changes properly,General,Low,R1009,app_review,N/A,2025-09-19T18:06:35.486226,New,Unassigned
+T1006,[General] This app changed my life. So organized now!,This app changed my life. So organized now!,General,Low,R1023,app_review,N/A,2025-09-19T18:06:35.486228,New,Unassigned
+T1007,[General] Check out my Instagram @fake_account,Check out my Instagram @fake_account,General,Low,R1047,app_review,N/A,2025-09-19T18:06:35.486229,New,Unassigned
+T1008,[General] ♠♣♥♦ symbols only ★☆★☆,♠♣♥♦ symbols only ★☆★☆,General,Low,R1045,app_review,N/A,2025-09-19T18:06:35.486231,New,Unassigned
+T1009,[General] Competitors offer more for less money,Competitors offer more for less money,General,Low,R1039,app_review,N/A,2025-09-19T18:06:35.486233,New,Unassigned
+T1010,[Bug] Can't login since the last update. Getting error code 401,Can't login since the last update. Getting error code 401,Bug,High,R1002,app_review,Version: 2.1.3; Platform: Google Play; Error Code: 401,2025-09-19T18:06:35.486234,New,Unassigned
+T1011,[General] MAKE $5000 WORKING FROM HOME,MAKE $5000 WORKING FROM HOME,General,Low,R1043,app_review,N/A,2025-09-19T18:06:35.486236,New,Unassigned
+T1012,[General] Lorem ipsum dolor sit amet consectetur,Lorem ipsum dolor sit amet consectetur,General,Low,R1049,app_review,N/A,2025-09-19T18:06:35.486238,New,Unassigned
+T1013,[Bug] Export function broken - generates empty files,Export function broken - generates empty files,Bug,High,R1006,app_review,Version: 3.0.1; Platform: Google Play,2025-09-19T18:06:35.486239,New,Unassigned
+T1014,[General] This is not related to the app at all,This is not related to the app at all,General,Low,R1048,app_review,N/A,2025-09-19T18:06:35.486241,New,Unassigned
+T1015,[Feature Request] Please add dark mode! My eyes hurt at night,Please add dark mode! My eyes hurt at night,Feature Request,Medium,R1011,app_review,N/A,2025-09-19T18:06:35.486243,New,Unassigned
+T1016,[Bug] App crashes when I try to upload photos. Please fix this!,App crashes when I try to upload photos. Please fix this!,Bug,Critical,R1001,app_review,Version: 3.1.0; Platform: App Store,2025-09-19T18:06:35.486244,New,Unassigned
+T1017,[Feature Request] Missing functionality for batch operations,Missing functionality for batch operations,Feature Request,Medium,R1013,app_review,N/A,2025-09-19T18:06:35.486246,New,Unassigned
+T1018,[Bug] App is slow and laggy on older phones,App is slow and laggy on older phones,Bug,Medium,R1033,app_review,Version: 2.9.8; Platform: Google Play,2025-09-19T18:06:35.486248,New,Unassigned
+T1019,[Bug] Data sync not working between devices. Lost all my notes!,Data sync not working between devices. Lost all my notes!,Bug,Critical,R1003,app_review,Version: 2.1.3; Platform: Google Play,2025-09-19T18:06:35.486249,New,Unassigned
+T1020,[Feature Request] Missing integration with Notion,Missing integration with Notion,Feature Request,Medium,R1019,app_review,N/A,2025-09-19T18:06:35.486251,New,Unassigned
+T1021,[Complaint] Too expensive for basic features,Too expensive for basic features,Complaint,Medium,R1031,app_review,N/A,2025-09-19T18:06:35.486252,New,Unassigned
+T1022,[General] This review is about a different app entirely,This review is about a different app entirely,General,Low,R1044,app_review,N/A,2025-09-19T18:06:35.486254,New,Unassigned
+T1023,[General] Notifications stopped working after iOS update,Notifications stopped working after iOS update,General,Low,R1005,app_review,N/A,2025-09-19T18:06:35.486255,New,Unassigned
+T1024,[Feature Request] Would love to see widget support for home screen,Would love to see widget support for home screen,Feature Request,Medium,R1012,app_review,N/A,2025-09-19T18:06:35.486257,New,Unassigned
+T1025,[General] Updates keep making it better and better,Updates keep making it better and better,General,Low,R1030,app_review,N/A,2025-09-19T18:06:35.486258,New,Unassigned
+T1026,[General] Subscription model is a ripoff,Subscription model is a ripoff,General,Low,R1035,app_review,N/A,2025-09-19T18:06:35.486260,New,Unassigned
+T1027,[Feature Request] Need ability to create templates,Need ability to create templates,Feature Request,Medium,R1020,app_review,N/A,2025-09-19T18:06:35.486261,New,Unassigned
+T1028,[Bug] The app freezes when switching between tabs,The app freezes when switching between tabs,Bug,Medium,R1004,app_review,Version: 2.9.8; Platform: Google Play,2025-09-19T18:06:35.486262,New,Unassigned
+T1029,[General] Interface is confusing and cluttered,Interface is confusing and cluttered,General,Low,R1036,app_review,N/A,2025-09-19T18:06:35.486264,New,Unassigned
+T1030,[Feature Request] Please add collaboration features for teams,Please add collaboration features for teams,Feature Request,Medium,R1015,app_review,N/A,2025-09-19T18:06:35.486265,New,Unassigned
+T1031,"[Complaint] Poor customer service, no response for weeks","Poor customer service, no response for weeks",Complaint,Medium,R1032,app_review,N/A,2025-09-19T18:06:35.486267,New,Unassigned
+T1032,[General] Search feature returns no results even for existing items,Search feature returns no results even for existing items,General,Low,R1007,app_review,N/A,2025-09-19T18:06:35.486269,New,Unassigned
+T1033,[Feature Request] Can you add markdown support in notes?,Can you add markdown support in notes?,Feature Request,Medium,R1014,app_review,N/A,2025-09-19T18:06:35.486271,New,Unassigned
+T1034,[General] App uses too much battery in background,App uses too much battery in background,General,Low,R1008,app_review,N/A,2025-09-19T18:06:35.486273,New,Unassigned
+T1035,[General] Takes forever to load large documents,Takes forever to load large documents,General,Low,R1037,app_review,N/A,2025-09-19T18:06:35.486275,New,Unassigned
+T1036,[General] Too many unnecessary features,Too many unnecessary features,General,Low,R1040,app_review,N/A,2025-09-19T18:06:35.486276,New,Unassigned
+T1037,"[Bug] Performance Issues
+The app has become extremely slow lately....","Performance Issues
+The app has become extremely slow lately. Takes 10+ seconds to open, freezes when scrolling. My device has plenty of storage and RAM available.
+
+Device: Google Pixel 7
+Android: 13
+
+Please investigate.",Bug,Medium,E2005,support_email,Device: Android; OS: Android,2025-09-19T18:06:35.486279,New,Unassigned
+T1038,"[Bug] App Crash Report - Critical Issue
+Hi Support,
+
+The app crash...","App Crash Report - Critical Issue
+Hi Support,
+
+The app crashes immediately after launch on my iPhone 13 Pro running iOS 16.5. Steps to reproduce:
+1. Open the app
+2. Try to access settings
+3. App crashes
+
+Please fix this urgently as I cannot use the app at all.
+
+Best regards",Bug,Critical,E2001,support_email,Version: 16.5; Device: iPhone; OS: iOS; Steps to reproduce found: 4 steps,2025-09-19T18:06:35.486280,New,Unassigned
+T1039,"[Feature Request] Feature Request: Dark Mode
+Hello Product Team,
+
+I would real...","Feature Request: Dark Mode
+Hello Product Team,
+
+I would really appreciate if you could add a dark mode option. I use the app extensively at night and the bright white interface strains my eyes.
+
+This would be a great addition for many users.
+
+Thank you for considering!",Feature Request,Medium,E2006,support_email,N/A,2025-09-19T18:06:35.486282,New,Unassigned
+T1040,"[Bug] Sync Issues Between Devices
+Hi,
+
+Syncing stopped working bet...","Sync Issues Between Devices
+Hi,
+
+Syncing stopped working between my phone and laptop. Changes made on phone don't appear on laptop and vice versa. Started happening after update to version 3.0.2.
+
+Devices affected:
+- iPhone 12 (iOS 16.3)
+- MacBook Pro 2021 (macOS Ventura)
+
+Thanks",Bug,Medium,E2004,support_email,Version: 3.0.2; Device: iPhone; OS: iOS,2025-09-19T18:06:35.486284,New,Unassigned
+T1041,"[Bug] Data Loss Problem
+Dear Team,
+
+I lost all my data after the r...","Data Loss Problem
+Dear Team,
+
+I lost all my data after the recent update! I had over 500 notes that are now gone. This is unacceptable. I need my data recovered immediately.
+
+Device: iPad Pro 2022
+iOS: 16.4
+App version: 3.0.2
+
+Very disappointed.",Bug,Critical,E2003,support_email,Version: 16.4; Device: iPad; OS: iOS,2025-09-19T18:06:35.486285,New,Unassigned
+T1042,"[Bug] Login Issue - Cannot Access Account
+Hello,
+
+I have been unab...","Login Issue - Cannot Access Account
+Hello,
+
+I have been unable to login for the past 3 days. Error message: ""Invalid credentials"" even though my password is correct. I have tried:
+- Resetting password
+- Clearing cache
+- Reinstalling app
+
+Device: Samsung Galaxy S22
+Android version: 13
+App version: 3.0.1
+
+Please help!",Bug,High,E2002,support_email,Version: 3.0.1; Device: Android; OS: Android; Error Code: message,2025-09-19T18:06:35.486287,New,Unassigned

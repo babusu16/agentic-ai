@@ -1,0 +1,119 @@
+email_id,subject,body,sender_email,timestamp,priority
+1,Suggestion for Improvement,"Hi there, just wanted to share a suggestion...
+
+It would be useful to have biometric login support (Face ID / Fingerprint).",protester@feedback.io,2025-09-22 00:33:02,High
+2,Suggestion for Improvement,"Greetings,
+
+I'd like to formally request a feature enhancement for the app.
+
+Is it possible to integrate this app with Microsoft Teams?",user123@gmail.com,14/09/2025 07:33 PM,Low
+3,Feature Request: Dark Mode,"Dear Support Team,
+
+I am writing to report an issue I encountered with your app.
+
+It would be useful to have biometric login support (Face ID / Fingerprint).",michael_b@company.org,08/09/2025 08:33 AM,
+4,Feature Request: Dark Mode,"Hi there, just wanted to share a suggestion...
+
+It would be useful to have biometric login support (Face ID / Fingerprint).",john.doe@example.com,18/09/2025 07:33 PM,High
+5,Data Loss Problem,"Hey devs! Love the app but it’s been acting up lately...
+
+Hi team, the app crashes every time I open the settings page on my Samsung Galaxy S21 running Android 12.",alice.smith@domain.com,"Sep 23, 2025 09:33",Low
+6,Login Issue,"Hi there, just wanted to share a suggestion...
+
+Hi team, the app crashes every time I open the settings page on my Samsung Galaxy S21 running Android 12.",michael_b@company.org,02/10/2025 05:33 PM,
+7,Feature Request: Dark Mode,"Dear Support Team,
+
+I am writing to report an issue I encountered with your app.
+
+It would be useful to have biometric login support (Face ID / Fingerprint).",supporter77@yahoo.com,2025-09-22 20:33:02,High
+8,Suggestion for Improvement,"What’s up team? Any plans to add this feature?
+
+Hi, please consider adding a feature to export reports to PDF.",protester@feedback.io,2025-10-02T18:33:02.794729,Medium
+9,Login Issue,"Dear Support Team,
+
+I am writing to report an issue I encountered with your app.
+
+Steps to reproduce: 1. Open the app. 2. Tap on 'Profile'. 3. App crashes instantly.",protester@feedback.io,2025-09-19T14:33:02.794767,High
+10,Data Loss Problem,"Greetings,
+
+I'd like to formally request a feature enhancement for the app.
+
+I lost all my saved data after syncing with Google Drive. Please help!",protester@feedback.io,"Sep 16, 2025 18:33",Low
+11,Feature Request: Dark Mode,"Hi there, just wanted to share a suggestion...
+
+Thanks for a great product. I'd suggest an option to customize notification tones.",protester@feedback.io,12/09/2025 04:33 PM,High
+12,Data Loss Problem,"Hello,
+
+Please find below the issue I faced while using the application.
+
+The login screen keeps reloading. Device: Pixel 6, Android 13.",alice.smith@domain.com,"Sep 09, 2025 02:33",High
+13,Suggestion for Improvement,"Greetings,
+
+I'd like to formally request a feature enhancement for the app.
+
+It would be useful to have biometric login support (Face ID / Fingerprint).",supporter77@yahoo.com,2025-09-06 22:33:02,Low
+14,App Crash Report,"Dear Support Team,
+
+I am writing to report an issue I encountered with your app.
+
+Steps to reproduce: 1. Open the app. 2. Tap on 'Profile'. 3. App crashes instantly.",user123@gmail.com,2025-10-01T10:33:02.794957,High
+15,Suggestion for Improvement,"Hey devs! Love the app but it’s been acting up lately...
+
+I love the app! Would be great if you could add dark mode for night use.",user123@gmail.com,2025-09-28 21:33:02,High
+16,Suggestion for Improvement,"Hey devs! Love the app but it’s been acting up lately...
+
+I love the app! Would be great if you could add dark mode for night use.",michael_b@company.org,12/09/2025 09:33 PM,High
+17,Data Loss Problem,"Greetings,
+
+I'd like to formally request a feature enhancement for the app.
+
+I'm unable to log in after the recent update. I'm using iOS 16.0 on an iPhone 12.",user123@gmail.com,2025-09-12T01:33:02.795076,
+18,App Crash Report,"Hello,
+
+Please find below the issue I faced while using the application.
+
+I'm unable to log in after the recent update. I'm using iOS 16.0 on an iPhone 12.",john.doe@example.com,"Oct 07, 2025 10:33",
+19,Feature Request: Dark Mode,"Dear Support Team,
+
+I am writing to report an issue I encountered with your app.
+
+Is it possible to integrate this app with Microsoft Teams?",user123@gmail.com,17/09/2025 04:33 PM,
+20,Login Issue,"Yo, got a problem with the app crashing. Can you fix?
+
+Steps to reproduce: 1. Open the app. 2. Tap on 'Profile'. 3. App crashes instantly.",john.doe@example.com,2025-09-07T12:33:02.795193,Low
+21,Data Loss Problem,"Yo, got a problem with the app crashing. Can you fix?
+
+I'm unable to log in after the recent update. I'm using iOS 16.0 on an iPhone 12.",john.doe@example.com,2025-09-08 19:33:02,Low
+22,Feature Request: Dark Mode,"What’s up team? Any plans to add this feature?
+
+I love the app! Would be great if you could add dark mode for night use.",casualguy@coolmail.com,07/09/2025 05:33 PM,Low
+23,Login Issue,"What’s up team? Any plans to add this feature?
+
+I lost all my saved data after syncing with Google Drive. Please help!",supporter77@yahoo.com,2025-09-23T07:33:02.795308,
+24,Suggestion for Improvement,"Hi there, just wanted to share a suggestion...
+
+It would be useful to have biometric login support (Face ID / Fingerprint).",john.doe@example.com,2025-09-15T21:33:02.795346,
+25,Feature Request: Dark Mode,"Dear Support Team,
+
+I am writing to report an issue I encountered with your app.
+
+I love the app! Would be great if you could add dark mode for night use.",michael_b@company.org,05/10/2025 12:33 AM,Medium
+26,Feature Request: Dark Mode,"Hello,
+
+Please find below the issue I faced while using the application.
+
+It would be useful to have biometric login support (Face ID / Fingerprint).",casualguy@coolmail.com,2025-09-09 18:33:02,Low
+27,Data Loss Problem,"Dear Support Team,
+
+I am writing to report an issue I encountered with your app.
+
+Steps to reproduce: 1. Open the app. 2. Tap on 'Profile'. 3. App crashes instantly.",john.doe@example.com,2025-09-07 04:33:02,
+28,Suggestion for Improvement,"Hey devs! Love the app but it’s been acting up lately...
+
+Thanks for a great product. I'd suggest an option to customize notification tones.",protester@feedback.io,"Sep 12, 2025 15:33",
+29,Suggestion for Improvement,"Yo, got a problem with the app crashing. Can you fix?
+
+Is it possible to integrate this app with Microsoft Teams?",user123@gmail.com,"Sep 25, 2025 16:33",
+30,App Crash Report,"Hey devs! Love the app but it’s been acting up lately...
+
+I'm unable to log in after the recent update. I'm using iOS 16.0 on an iPhone 12.",alice.smith@domain.com,20/09/2025 07:33 AM,

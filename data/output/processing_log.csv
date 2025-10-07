@@ -1,0 +1,61 @@
+feedback_id,source,classification,confidence,priority,processed_at
+R1010,app_review,Bug,0.4,High,2025-09-19T18:06:35.997598
+R1018,app_review,Feature Request,0.4,Medium,2025-09-19T18:06:35.997625
+R1042,app_review,General,0.3,Low,2025-09-19T18:06:35.997629
+R1016,app_review,Feature Request,0.2,Medium,2025-09-19T18:06:35.997633
+R1050,app_review,Praise,0.4,Low,2025-09-19T18:06:35.997636
+R1024,app_review,Praise,0.8,Low,2025-09-19T18:06:35.997639
+R1046,app_review,Praise,0.6,Low,2025-09-19T18:06:35.997641
+R1009,app_review,General,0.3,Low,2025-09-19T18:06:35.997644
+R1023,app_review,General,0.3,Low,2025-09-19T18:06:35.997647
+R1047,app_review,General,0.3,Low,2025-09-19T18:06:35.997650
+R1045,app_review,General,0.3,Low,2025-09-19T18:06:35.997652
+R1039,app_review,General,0.3,Low,2025-09-19T18:06:35.997655
+R1002,app_review,Bug,0.2,High,2025-09-19T18:06:35.997657
+R1043,app_review,General,0.3,Low,2025-09-19T18:06:35.997660
+R1049,app_review,General,0.3,Low,2025-09-19T18:06:35.997663
+R1028,app_review,Praise,0.4,Low,2025-09-19T18:06:35.997665
+R1006,app_review,Bug,0.2,High,2025-09-19T18:06:35.997668
+R1022,app_review,Praise,0.8,Low,2025-09-19T18:06:35.997671
+R1048,app_review,General,0.3,Low,2025-09-19T18:06:35.997673
+R1011,app_review,Feature Request,0.4,Medium,2025-09-19T18:06:35.997681
+R1001,app_review,Bug,0.4,Critical,2025-09-19T18:06:35.997684
+R1013,app_review,Feature Request,0.2,Medium,2025-09-19T18:06:35.997686
+R1033,app_review,Bug,0.4,Medium,2025-09-19T18:06:35.997689
+R1027,app_review,Praise,0.6,Low,2025-09-19T18:06:35.997692
+R1003,app_review,Bug,0.4,Critical,2025-09-19T18:06:35.997694
+R1019,app_review,Feature Request,0.2,Medium,2025-09-19T18:06:35.997697
+R1031,app_review,Complaint,0.2,Medium,2025-09-19T18:06:35.997700
+R1017,app_review,Praise,0.6,Low,2025-09-19T18:06:35.997702
+R1044,app_review,General,0.3,Low,2025-09-19T18:06:35.997704
+R1034,app_review,Spam,0.2,Low,2025-09-19T18:06:35.997725
+R1005,app_review,General,0.3,Low,2025-09-19T18:06:35.997730
+R1012,app_review,Feature Request,0.2,Medium,2025-09-19T18:06:35.997732
+R1030,app_review,General,0.3,Low,2025-09-19T18:06:35.997734
+R1035,app_review,General,0.3,Low,2025-09-19T18:06:35.997737
+R1020,app_review,Feature Request,0.2,Medium,2025-09-19T18:06:35.997739
+R1004,app_review,Bug,0.2,Medium,2025-09-19T18:06:35.997740
+R1036,app_review,General,0.3,Low,2025-09-19T18:06:35.997742
+R1021,app_review,Praise,0.8,Low,2025-09-19T18:06:35.997744
+R1015,app_review,Feature Request,0.4,Medium,2025-09-19T18:06:35.997747
+R1032,app_review,Complaint,0.2,Medium,2025-09-19T18:06:35.997749
+R1007,app_review,General,0.3,Low,2025-09-19T18:06:35.997751
+R1014,app_review,Feature Request,0.2,Medium,2025-09-19T18:06:35.997754
+R1008,app_review,General,0.3,Low,2025-09-19T18:06:35.997756
+R1029,app_review,Praise,0.4,Low,2025-09-19T18:06:35.997757
+R1025,app_review,Praise,0.4,Low,2025-09-19T18:06:35.997759
+R1037,app_review,General,0.3,Low,2025-09-19T18:06:35.997761
+R1026,app_review,Praise,0.2,Low,2025-09-19T18:06:35.997763
+R1038,app_review,Spam,0.2,Low,2025-09-19T18:06:35.997765
+R1041,app_review,Spam,0.2,Low,2025-09-19T18:06:35.997767
+R1040,app_review,General,0.3,Low,2025-09-19T18:06:35.997769
+E2009,support_email,Praise,0.8,Low,2025-09-19T18:06:35.997771
+E2005,support_email,Bug,0.6,Medium,2025-09-19T18:06:35.997774
+E2007,support_email,Praise,1.0,Low,2025-09-19T18:06:35.997776
+E2001,support_email,Bug,0.6,Critical,2025-09-19T18:06:35.997779
+E2010,support_email,Praise,0.2,Low,2025-09-19T18:06:35.997781
+E2008,support_email,Praise,0.6,Low,2025-09-19T18:06:35.997784
+E2006,support_email,Feature Request,0.4,Medium,2025-09-19T18:06:35.997785
+E2004,support_email,Bug,0.4,Medium,2025-09-19T18:06:35.997787
+E2003,support_email,Bug,0.4,Critical,2025-09-19T18:06:35.997790
+E2002,support_email,Bug,0.4,High,2025-09-19T18:06:35.997792
