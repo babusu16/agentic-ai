@@ -1,0 +1,11 @@
+openai
+python-dotenv
+openai-agents
+numpy
+gradio
+pypdf
+pandas
+langchain_openai
+crewai
+logging
+logger
